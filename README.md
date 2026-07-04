@@ -17,7 +17,7 @@ Watt, E. C.; Box, M.; Archer-Parré, C.; Pawlikowski, M.; Carey, A.-M.; Martinó
 7. Extract the contours of the objects in the images and save the coordinates as a .csv file
 
 ### Test data to run this script:
-Two folders, one with a sample photograph (unedited) and the second with manual edits as described in the manuscript, ready for input into the .ipynb script
+Due to file size limits, please see https://doi.org/10.5281/zenodo.21188316 to access the example image data associated with this script. 
 
 ## R folder
 ### R script "Rscript_2DGMM.R" containing the following stages:
